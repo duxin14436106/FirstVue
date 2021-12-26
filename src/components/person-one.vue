@@ -1,14 +1,13 @@
 <template>
-  <div>
-    person1
-    个人分支内容
-  </div>
+<div>
+  12345
+</div>
 </template>
 
 <script>
 export default {
-  name: 'person1',
-};
+  name: "person-one"
+}
 </script>
 
 <style scoped>
